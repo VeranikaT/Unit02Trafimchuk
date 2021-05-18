@@ -15,4 +15,4 @@ public class Task09 {
         double x = 5;
         System.out.println(f((int) x));
     }
-}
+}// Задание зачтено полностью. Молодец.
